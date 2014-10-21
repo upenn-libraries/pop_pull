@@ -56,3 +56,6 @@ venv/
 # Emacs stuff
 \#*
 .#*
+
+# Rbenv
+.ruby-version
