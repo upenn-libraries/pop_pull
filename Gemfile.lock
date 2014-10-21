@@ -1,0 +1,10 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    unicode (0.4.4.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  unicode
