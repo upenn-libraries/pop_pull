@@ -3,8 +3,12 @@ import os
 import sys
 import csv
 import re
+import unicodedata
 
-rdr = csv.reader(open(sys.argv[1]))
+sys.path.append(os.path.dirname(__file__))
+from unicode_csv import UTF8Recoder, UnicodeReader, UnicodeWriter
+
+rdr = UnicodeReader(open(sys.argv[1]))
 tag_re = re.compile('\W', re.UNICODE)
 clean_re = re.compile('[\s"!@#\$%^&*():_+=\'/.;`<>\[\]?\\-]')
 
@@ -18,18 +22,21 @@ def strip_accents(s):
 
 outfile = open('updated_tags.orig.csv', 'w+')
 
-wrtr = csv.writer(outfile)
+wrtr = UnicodeWriter(outfile, delimiter='\t')
 head = [ 'Normalized', 'Raw', 'Model', 'field' ]
 wrtr.writerow(head)
 
 for row in rdr:
     new_row = []
-    ugly, tag, mitch, laura, model, field, basis = row[:]
+    ugly, raw, mitch, laura, model, field, basis = row[:]
+    new_row = [ ugly, raw, model, field ]
+
     if ugly:
-        new_row = [ ugly, tag, model, field ]
+        new_row = [ ugly, raw, model, field ]
     else:
-        u = tag_re.sub('', unicode(tag,'utf-8').lower())
-        new_row = [ u.encode('utf-8'), unicode(tag, 'utf-8').encode('utf-8'), model, field ]
+        u = unicodedata.normalize('NFC', raw)
+        u = tag_re.sub('', u.strip().lower())
+        new_row = [ u, raw, model, field ]
     wrtr.writerow(new_row)
 
 outfile.close()
