@@ -1,4 +1,7 @@
+# -*- coding: utf-8 -*-
+
 import os
+import sys
 import json
 import re
 import csv
@@ -9,6 +12,7 @@ data_dir =  os.path.join(os.path.dirname(__file__), '..', 'data')
 rows = []
 
 class Categories:
+    NOT_FOUND = ('NOT_FOUND', 'NOT_FOUND')
     DEFAULT_CAT = 'TBD'
 
     def __init__(self, csv):
@@ -22,19 +26,17 @@ class Categories:
         rdr = csv.reader(open(self.csv))
         for row in rdr:
             try:
-                val = row[0].decode('utf-8').encode('utf-8').strip().upper()
-                cat = row[1]
-                if cat and len(cat) > 0:
-                    cat = cat.encode('utf-8').strip()
-                else:
-                    cat = Categories.DEFAULT_CAT
-
-                self.tags[val] = cat
+                # Ugly	Clean	Mitch's Category	Laura's Category	Model	Field	Basis
+                # zaravoni	Zaravoni	Person	Person	Copy	Author	Transcription | Secondary | Imagery Description | Heraldry Description
+                ugly, raw, mitch, laura, model, field, basis = row[:]
+                # ugly, raw, model, field = row[:]
+                cat = (model.strip().lower(),field.strip().lower())
+                self.tags[ugly] = cat
                 self.cat_set.add(cat)
             except:
                 print "Problem: %r" % row
                 raise
-        self.cat_set.add('NOT_FOUND')
+        self.cat_set.add(Categories.NOT_FOUND)
         self.cats = list(self.cat_set)
         self.cats.sort()
 
@@ -79,20 +81,19 @@ class Photo:
 
     def mapped_tags(self, categories):
         tag_map = {}
-        tag_map['NOT_FOUND'] = []
+        tag_map[Categories.NOT_FOUND] = []
         for cat in categories.cats:
             tag_map[cat] = []
 
-        for raw in self.raw_tags:
-            s = raw.strip().upper()
-            cat = categories.tags[s] if s in categories.tags else "NOT_FOUND"
-            tag_map[cat].append(raw)
+        for tag in self.text_tags:
+            cat = categories.tags[tag] if tag in categories.tags else Categories.NOT_FOUND
+            tag_map[cat].append(tag)
         return tag_map
 
 def stringify(s):
     return s.encode('utf-8')
 
-cats = Categories(os.path.join(data_dir, 'POPTagListLaura.csv'))
+cats = Categories(sys.argv[1])
 print cats.cats
 
 for fname in os.listdir(data_dir):
@@ -103,7 +104,7 @@ photos = None
 
 head = [ 'ID', 'Title', 'URL' ]
 for cat in cats.cats:
-    head.append(cat)
+    head.append(':'.join(cat))
 
 for fname in files:
     records = json.load(open(os.path.join(data_dir,fname)))
@@ -115,7 +116,7 @@ for fname in files:
             row.append('|'.join(tags[cat]))
         rows.append(row)
 
-outfile = open("photos_laura.csv", "w+")
+outfile = open("photos_mapped.csv", "w+")
 csv_writer = csv.writer(outfile)
 csv_writer.writerow(head)
 csv_writer.writerows(rows)
