@@ -10,33 +10,34 @@ from unicode_csv import UTF8Recoder, UnicodeReader, UnicodeWriter
 
 rdr = UnicodeReader(open(sys.argv[1]))
 tag_re = re.compile('\W', re.UNICODE)
-clean_re = re.compile('[\s"!@#\$%^&*():_+=\'/.;`<>\[\]?\\-]')
 
-# clean_tag = raw_tag.gsub(/[\\s"!@#\\$\\%^&*():\\-_+=\\'\\/.;`<>\\[\\]?\\\\]/,"").downcase
-
-
-def strip_accents(s):
-    return ''.join(c for c in unicodedata.normalize('NFD', s)
-                   if unicodedata.category(c) != 'Mn')
-
+flickr_tags = set()
+tag_source = os.path.join(os.path.dirname(__file__), '../data/tags_from_flickr.csv')
+with open(tag_source) as f:
+    tagreader = UnicodeReader(f)
+    for tagrow in tagreader:
+        text, raw, author = tagrow[:]
+        flickr_tags.add(text)
 
 outfile = open('updated_tags.orig.csv', 'w+')
 
-wrtr = UnicodeWriter(outfile, delimiter='\t')
+wrtr = UnicodeWriter(outfile)
 head = [ 'Normalized', 'Raw', 'Model', 'field' ]
 wrtr.writerow(head)
 
 for row in rdr:
     new_row = []
     ugly, raw, mitch, laura, model, field, basis = row[:]
-    new_row = [ ugly, raw, model, field ]
-
+    u = 'MISSING'
     if ugly:
-        new_row = [ ugly, raw, model, field ]
+        u = ugly if ugly in flickr_tags else ('CURR:NO_MATCH:%s' % ugly)
     else:
-        u = unicodedata.normalize('NFC', raw)
-        u = tag_re.sub('', u.strip().lower())
-        new_row = [ u, raw, model, field ]
+        ugly = unicodedata.normalize('NFC', raw)
+        ugly = tag_re.sub('', ugly.strip().lower())
+        u = ugly if ugly in flickr_tags else ('NEW:NO_MATCH:%s' % ugly)
+    
+    new_row = row[:]
+    new_row[0] = u
     wrtr.writerow(new_row)
 
 outfile.close()
