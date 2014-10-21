@@ -28,9 +28,9 @@ class Categories:
             try:
                 # Ugly	Clean	Mitch's Category	Laura's Category	Model	Field	Basis
                 # zaravoni	Zaravoni	Person	Person	Copy	Author	Transcription | Secondary | Imagery Description | Heraldry Description
-                #ugly, raw, mitch, laura, model, field, basis = row[:]
-                ugly, raw, model, field = row[:]
-                cat = (model,field)
+                ugly, raw, mitch, laura, model, field, basis = row[:]
+                # ugly, raw, model, field = row[:]
+                cat = (model.strip().lower(),field.strip().lower())
                 self.tags[ugly] = cat
                 self.cat_set.add(cat)
             except:
