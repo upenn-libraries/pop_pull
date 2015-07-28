@@ -4986,9 +4986,9 @@ asinescagloria,Asinesca Gloria,,Title,Copy ,Title
 digesta,Digesta,,Title,Copy ,Title 
 nurembergchronicle,Nuremberg Chronicle,,Title ,Copy ,Title 
 thedaysdoings,The Days' Doings,,Title,Copy ,Title 
-juliusiipope14431513,"Julius II, Pope, 1443-1513",Person,Person,Copy ,Unk: Dedicatee/Patron
-gregoryxiiipope15021585,"Gregory XIII, Pope, 1502-1585",Person,Person,Copy ,Unk: Dedicatee/Patron
-gregoryxivpope15351591,"Gregory XIV, Pope, 1535-1591",Person,Person,Copy ,Unk: Dedicatee/Patron | Patron
+juliusiipope14431513,"Julius II, Pope, 1443-1513",Person,Person,Copy ,Dedicatee/Patron
+gregoryxiiipope15021585,"Gregory XIII, Pope, 1502-1585",Person,Person,Copy ,Dedicatee/Patron
+gregoryxivpope15351591,"Gregory XIV, Pope, 1535-1591",Person,Person,Copy ,Dedicatee/Patron
 ,Blind-stamped binding,,,Evidence,Binding
 signedbindings,Signed bindings,,Type Provenance,Evidence,Binding
 ,Augustinian bindings,,,Evidence,Binding 
@@ -5173,10 +5173,8 @@ exbibliothecaregiaacademgeorgiaeaug,Ex Bibliotheca Regia Academ. Georgiae Aug.,,
 suffolkarms,Suffolk arms,,Type Provenance,Evidence,Evidence Type Unknown
 sumfranciscidanielisaurelii,Sum Francisci Danielis Aurelii,,Type Provenance,Evidence,Evidence Type Unknown
 sumliberdrugonis,Sum liber Drugonis,,Type Provenance,Evidence,Evidence Type Unknown
-,C G,,,Evidence,"Evidence Type Unknown 
-"
-,C V P F,,,Evidence,"Evidence Type Unknown 
-"
+,C G,,,Evidence,Evidence Type Unknown
+,C V P F,,,Evidence,Evidence Type Unknown
 ,coat of arms,,,Evidence,Heraldic
 coatsofarms,Coats of arms,,Type Provenance,Evidence,Heraldic
 coatsorarms,Coats or arms,,Type Provenance,Evidence,Heraldic

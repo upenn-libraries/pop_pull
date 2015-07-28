@@ -1,0 +1,1524 @@
+[
+  {
+    "photo": {
+      "people": {
+        "haspeople": 0
+      },
+      "dateuploaded": "1296010631",
+      "originalformat": "png",
+      "owner": {
+        "username": "Provenance Online Project",
+        "realname": "POP",
+        "path_alias": null,
+        "iconserver": "7337",
+        "nsid": "58558794@N07",
+        "location": "",
+        "iconfarm": 8
+      },
+      "publiceditability": {
+        "canaddmeta": 0,
+        "cancomment": 1
+      },
+      "id": "5388708931",
+      "title": "Palazzo Pitti 1922",
+      "media": "photo",
+      "tags": {
+        "tag": [
+          {
+            "machine_tag": 0,
+            "author": "58558794@N07",
+            "text": "grcp9428ef31509",
+            "raw": "GrC P9428 Ef3 1509",
+            "authorname": "Provenance Online Project",
+            "id": "58537464-5388708931-66189069"
+          },
+          {
+            "machine_tag": 0,
+            "author": "58558794@N07",
+            "text": "provenance",
+            "raw": "Provenance",
+            "authorname": "Provenance Online Project",
+            "id": "58537464-5388708931-1080226"
+          },
+          {
+            "machine_tag": 0,
+            "author": "58558794@N07",
+            "text": "greekcultureclasscollection",
+            "raw": "Greek Culture Class Collection",
+            "authorname": "Provenance Online Project",
+            "id": "58537464-5388708931-66055725"
+          },
+          {
+            "machine_tag": 0,
+            "author": "58558794@N07",
+            "text": "cultureclasscollection",
+            "raw": "Culture Class Collection",
+            "authorname": "Provenance Online Project",
+            "id": "58537464-5388708931-66134932"
+          },
+          {
+            "machine_tag": 0,
+            "author": "58558794@N07",
+            "text": "pennlibraries",
+            "raw": "Penn Libraries",
+            "authorname": "Provenance Online Project",
+            "id": "58537464-5388708931-37659184"
+          },
+          {
+            "machine_tag": 0,
+            "author": "58558794@N07",
+            "text": "bookplates",
+            "raw": "Bookplates",
+            "authorname": "Provenance Online Project",
+            "id": "58537464-5388708931-1859279"
+          },
+          {
+            "machine_tag": 0,
+            "author": "58558794@N07",
+            "text": "palazzopitti",
+            "raw": "Palazzo Pitti",
+            "authorname": "Provenance Online Project",
+            "id": "58537464-5388708931-345357"
+          },
+          {
+            "machine_tag": 0,
+            "author": "58558794@N07",
+            "text": "identified",
+            "raw": "Identified",
+            "authorname": "Provenance Online Project",
+            "id": "58537464-5388708931-871924"
+          }
+        ]
+      },
+      "comments": "2",
+      "secret": "f876dc900e",
+      "usage": {
+        "canblog": 0,
+        "canshare": 1,
+        "candownload": 1,
+        "canprint": 0
+      },
+      "description": "Mostra storica della legatura artistica in Palazzo Pitti. Firenze 1922. Numero 670 del catalogo.\n\nPenn Libraries call number: GrC P9428 Ef3 1509",
+      "isfavorite": 0,
+      "views": "487",
+      "farm": 6,
+      "visibility": {
+        "isfriend": 0,
+        "isfamily": 0,
+        "ispublic": 1
+      },
+      "rotation": 0,
+      "dates": {
+        "taken": "2011-01-25 21:57:11",
+        "lastupdate": "1304970135",
+        "posted": "1296010631",
+        "takengranularity": "0"
+      },
+      "originalsecret": "cd0c2a382e",
+      "license": "4",
+      "notes": {
+        "note": []
+      },
+      "server": "5131",
+      "safety_level": "0",
+      "urls": {
+        "url": [
+          {
+            "text": "https://www.flickr.com/photos/58558794@N07/5388708931/",
+            "type": "photopage"
+          }
+        ]
+      },
+      "editability": {
+        "canaddmeta": 0,
+        "cancomment": 0
+      }
+    },
+    "stat": "ok"
+  },
+  {
+    "photo": {
+      "people": {
+        "haspeople": 0
+      },
+      "dateuploaded": "1296010630",
+      "originalformat": "png",
+      "owner": {
+        "username": "Provenance Online Project",
+        "realname": "POP",
+        "path_alias": null,
+        "iconserver": "7337",
+        "nsid": "58558794@N07",
+        "location": "",
+        "iconfarm": 8
+      },
+      "publiceditability": {
+        "canaddmeta": 0,
+        "cancomment": 1
+      },
+      "id": "5389315852",
+      "title": "Gold-stamped binding",
+      "media": "photo",
+      "tags": {
+        "tag": [
+          {
+            "machine_tag": 0,
+            "author": "58558794@N07",
+            "text": "grcp9428ef31509",
+            "raw": "GrC P9428 Ef3 1509",
+            "authorname": "Provenance Online Project",
+            "id": "58537464-5389315852-66189069"
+          },
+          {
+            "machine_tag": 0,
+            "author": "58558794@N07",
+            "text": "provenance",
+            "raw": "Provenance",
+            "authorname": "Provenance Online Project",
+            "id": "58537464-5389315852-1080226"
+          },
+          {
+            "machine_tag": 0,
+            "author": "58558794@N07",
+            "text": "greekcultureclasscollection",
+            "raw": "Greek Culture Class Collection",
+            "authorname": "Provenance Online Project",
+            "id": "58537464-5389315852-66055725"
+          },
+          {
+            "machine_tag": 0,
+            "author": "58558794@N07",
+            "text": "cultureclasscollection",
+            "raw": "Culture Class Collection",
+            "authorname": "Provenance Online Project",
+            "id": "58537464-5389315852-66134932"
+          },
+          {
+            "machine_tag": 0,
+            "author": "58558794@N07",
+            "text": "pennlibraries",
+            "raw": "Penn Libraries",
+            "authorname": "Provenance Online Project",
+            "id": "58537464-5389315852-37659184"
+          },
+          {
+            "machine_tag": 0,
+            "author": "58558794@N07",
+            "text": "papalkeys",
+            "raw": "Papal keys",
+            "authorname": "Provenance Online Project",
+            "id": "58537464-5389315852-12862199"
+          },
+          {
+            "machine_tag": 0,
+            "author": "58558794@N07",
+            "text": "bindings",
+            "raw": "Bindings",
+            "authorname": "Provenance Online Project",
+            "id": "58537464-5389315852-451862"
+          },
+          {
+            "machine_tag": 0,
+            "author": "58558794@N07",
+            "text": "goldstampedbindings",
+            "raw": "Gold-stamped bindings",
+            "authorname": "Provenance Online Project",
+            "id": "58537464-5389315852-66868904"
+          },
+          {
+            "machine_tag": 0,
+            "author": "58558794@N07",
+            "text": "unidentified",
+            "raw": "Unidentified",
+            "authorname": "Provenance Online Project",
+            "id": "58537464-5389315852-120348"
+          }
+        ]
+      },
+      "comments": "0",
+      "secret": "a940f4ab21",
+      "usage": {
+        "canblog": 0,
+        "canshare": 1,
+        "candownload": 1,
+        "canprint": 0
+      },
+      "description": "Penn Libraries call number: GrC P9428 Ef3 1509",
+      "isfavorite": 0,
+      "views": "207",
+      "farm": 6,
+      "visibility": {
+        "isfriend": 0,
+        "isfamily": 0,
+        "ispublic": 1
+      },
+      "rotation": 0,
+      "dates": {
+        "taken": "2011-01-25 21:57:10",
+        "lastupdate": "1304970135",
+        "posted": "1296010630",
+        "takengranularity": "0"
+      },
+      "originalsecret": "2d0df604ef",
+      "license": "4",
+      "notes": {
+        "note": []
+      },
+      "server": "5055",
+      "safety_level": "0",
+      "urls": {
+        "url": [
+          {
+            "text": "https://www.flickr.com/photos/58558794@N07/5389315852/",
+            "type": "photopage"
+          }
+        ]
+      },
+      "editability": {
+        "canaddmeta": 0,
+        "cancomment": 0
+      }
+    },
+    "stat": "ok"
+  },
+  {
+    "photo": {
+      "people": {
+        "haspeople": 0
+      },
+      "dateuploaded": "1296010628",
+      "originalformat": "png",
+      "owner": {
+        "username": "Provenance Online Project",
+        "realname": "POP",
+        "path_alias": null,
+        "iconserver": "7337",
+        "nsid": "58558794@N07",
+        "location": "",
+        "iconfarm": 8
+      },
+      "publiceditability": {
+        "canaddmeta": 0,
+        "cancomment": 1
+      },
+      "id": "5388708815",
+      "title": "GrC P7689 582e",
+      "media": "photo",
+      "tags": {
+        "tag": [
+          {
+            "machine_tag": 0,
+            "author": "58558794@N07",
+            "text": "grcp7689582e",
+            "raw": "GrC P7689 582e",
+            "authorname": "Provenance Online Project",
+            "id": "58537464-5388708815-66189071"
+          },
+          {
+            "machine_tag": 0,
+            "author": "58558794@N07",
+            "text": "provenance",
+            "raw": "Provenance",
+            "authorname": "Provenance Online Project",
+            "id": "58537464-5388708815-1080226"
+          },
+          {
+            "machine_tag": 0,
+            "author": "58558794@N07",
+            "text": "greekcultureclasscollection",
+            "raw": "Greek Culture Class Collection",
+            "authorname": "Provenance Online Project",
+            "id": "58537464-5388708815-66055725"
+          },
+          {
+            "machine_tag": 0,
+            "author": "58558794@N07",
+            "text": "cultureclasscollection",
+            "raw": "Culture Class Collection",
+            "authorname": "Provenance Online Project",
+            "id": "58537464-5388708815-66134932"
+          },
+          {
+            "machine_tag": 0,
+            "author": "58558794@N07",
+            "text": "pennlibraries",
+            "raw": "Penn Libraries",
+            "authorname": "Provenance Online Project",
+            "id": "58537464-5388708815-37659184"
+          },
+          {
+            "machine_tag": 0,
+            "author": "58558794@N07",
+            "text": "inscriptions",
+            "raw": "Inscriptions",
+            "authorname": "Provenance Online Project",
+            "id": "58537464-5388708815-48632"
+          },
+          {
+            "machine_tag": 0,
+            "author": "58558794@N07",
+            "text": "illegible",
+            "raw": "Illegible",
+            "authorname": "Provenance Online Project",
+            "id": "58537464-5388708815-410187"
+          },
+          {
+            "machine_tag": 0,
+            "author": "58558794@N07",
+            "text": "unidentified",
+            "raw": "Unidentified",
+            "authorname": "Provenance Online Project",
+            "id": "58537464-5388708815-120348"
+          }
+        ]
+      },
+      "comments": "0",
+      "secret": "5c85c98bd5",
+      "usage": {
+        "canblog": 0,
+        "canshare": 1,
+        "candownload": 1,
+        "canprint": 0
+      },
+      "description": "2nd line: [illegible] nunc[?] dono dedi[t?]\n3rd line, first word: Balthazar\n\nPenn Libraries call number: GrC P7689 582e",
+      "isfavorite": 0,
+      "views": "74",
+      "farm": 6,
+      "visibility": {
+        "isfriend": 0,
+        "isfamily": 0,
+        "ispublic": 1
+      },
+      "rotation": 0,
+      "dates": {
+        "taken": "2011-01-25 21:57:08",
+        "lastupdate": "1304970135",
+        "posted": "1296010628",
+        "takengranularity": "0"
+      },
+      "originalsecret": "076016ec46",
+      "license": "4",
+      "notes": {
+        "note": []
+      },
+      "server": "5052",
+      "safety_level": "0",
+      "urls": {
+        "url": [
+          {
+            "text": "https://www.flickr.com/photos/58558794@N07/5388708815/",
+            "type": "photopage"
+          }
+        ]
+      },
+      "editability": {
+        "canaddmeta": 0,
+        "cancomment": 0
+      }
+    },
+    "stat": "ok"
+  },
+  {
+    "photo": {
+      "people": {
+        "haspeople": 0
+      },
+      "dateuploaded": "1296010626",
+      "originalformat": "png",
+      "owner": {
+        "username": "Provenance Online Project",
+        "realname": "POP",
+        "path_alias": null,
+        "iconserver": "7337",
+        "nsid": "58558794@N07",
+        "location": "",
+        "iconfarm": 8
+      },
+      "publiceditability": {
+        "canaddmeta": 0,
+        "cancomment": 1
+      },
+      "id": "5388708759",
+      "title": "GrC P7689 529l",
+      "media": "photo",
+      "tags": {
+        "tag": [
+          {
+            "machine_tag": 0,
+            "author": "58558794@N07",
+            "text": "grcp7689529l",
+            "raw": "GrC P7689 529l",
+            "authorname": "Provenance Online Project",
+            "id": "58537464-5388708759-66189065"
+          },
+          {
+            "machine_tag": 0,
+            "author": "58558794@N07",
+            "text": "illegible",
+            "raw": "Illegible",
+            "authorname": "Provenance Online Project",
+            "id": "58537464-5388708759-410187"
+          },
+          {
+            "machine_tag": 0,
+            "author": "58558794@N07",
+            "text": "provenance",
+            "raw": "Provenance",
+            "authorname": "Provenance Online Project",
+            "id": "58537464-5388708759-1080226"
+          },
+          {
+            "machine_tag": 0,
+            "author": "58558794@N07",
+            "text": "greekcultureclasscollection",
+            "raw": "Greek Culture Class Collection",
+            "authorname": "Provenance Online Project",
+            "id": "58537464-5388708759-66055725"
+          },
+          {
+            "machine_tag": 0,
+            "author": "58558794@N07",
+            "text": "cultureclasscollection",
+            "raw": "Culture Class Collection",
+            "authorname": "Provenance Online Project",
+            "id": "58537464-5388708759-66134932"
+          },
+          {
+            "machine_tag": 0,
+            "author": "58558794@N07",
+            "text": "pennlibraries",
+            "raw": "Penn Libraries",
+            "authorname": "Provenance Online Project",
+            "id": "58537464-5388708759-37659184"
+          },
+          {
+            "machine_tag": 0,
+            "author": "58558794@N07",
+            "text": "stamps",
+            "raw": "Stamps",
+            "authorname": "Provenance Online Project",
+            "id": "58537464-5388708759-5158"
+          },
+          {
+            "machine_tag": 0,
+            "author": "58558794@N07",
+            "text": "unidentified",
+            "raw": "Unidentified",
+            "authorname": "Provenance Online Project",
+            "id": "58537464-5388708759-120348"
+          }
+        ]
+      },
+      "comments": "0",
+      "secret": "8816e988a1",
+      "usage": {
+        "canblog": 0,
+        "canshare": 1,
+        "candownload": 1,
+        "canprint": 0
+      },
+      "description": "Stamp is blurred/smudged on page.\n\nPenn Libraries call number: GrC P7689 529l",
+      "isfavorite": 0,
+      "views": "147",
+      "farm": 6,
+      "visibility": {
+        "isfriend": 0,
+        "isfamily": 0,
+        "ispublic": 1
+      },
+      "rotation": 0,
+      "dates": {
+        "taken": "2011-01-25 21:57:06",
+        "lastupdate": "1304970135",
+        "posted": "1296010626",
+        "takengranularity": "0"
+      },
+      "originalsecret": "7a6219d9cd",
+      "license": "4",
+      "notes": {
+        "note": []
+      },
+      "server": "5211",
+      "safety_level": "0",
+      "urls": {
+        "url": [
+          {
+            "text": "https://www.flickr.com/photos/58558794@N07/5388708759/",
+            "type": "photopage"
+          }
+        ]
+      },
+      "editability": {
+        "canaddmeta": 0,
+        "cancomment": 0
+      }
+    },
+    "stat": "ok"
+  },
+  {
+    "photo": {
+      "people": {
+        "haspeople": 0
+      },
+      "dateuploaded": "1296010625",
+      "originalformat": "png",
+      "owner": {
+        "username": "Provenance Online Project",
+        "realname": "POP",
+        "path_alias": null,
+        "iconserver": "7337",
+        "nsid": "58558794@N07",
+        "location": "",
+        "iconfarm": 8
+      },
+      "publiceditability": {
+        "canaddmeta": 0,
+        "cancomment": 1
+      },
+      "id": "5388708701",
+      "title": "Llanover Library",
+      "media": "photo",
+      "tags": {
+        "tag": [
+          {
+            "machine_tag": 0,
+            "author": "58558794@N07",
+            "text": "grcp746811572",
+            "raw": "GrC P7468.1 1572",
+            "authorname": "Provenance Online Project",
+            "id": "58537464-5388708701-66189063"
+          },
+          {
+            "machine_tag": 0,
+            "author": "58558794@N07",
+            "text": "provenance",
+            "raw": "Provenance",
+            "authorname": "Provenance Online Project",
+            "id": "58537464-5388708701-1080226"
+          },
+          {
+            "machine_tag": 0,
+            "author": "58558794@N07",
+            "text": "greekcultureclasscollection",
+            "raw": "Greek Culture Class Collection",
+            "authorname": "Provenance Online Project",
+            "id": "58537464-5388708701-66055725"
+          },
+          {
+            "machine_tag": 0,
+            "author": "58558794@N07",
+            "text": "cultureclasscollection",
+            "raw": "Culture Class Collection",
+            "authorname": "Provenance Online Project",
+            "id": "58537464-5388708701-66134932"
+          },
+          {
+            "machine_tag": 0,
+            "author": "58558794@N07",
+            "text": "pennlibraries",
+            "raw": "Penn Libraries",
+            "authorname": "Provenance Online Project",
+            "id": "58537464-5388708701-37659184"
+          },
+          {
+            "machine_tag": 0,
+            "author": "58558794@N07",
+            "text": "bookplates",
+            "raw": "Bookplates",
+            "authorname": "Provenance Online Project",
+            "id": "58537464-5388708701-1859279"
+          },
+          {
+            "machine_tag": 0,
+            "author": "58558794@N07",
+            "text": "armorialbookplates",
+            "raw": "Armorial bookplates",
+            "authorname": "Provenance Online Project",
+            "id": "58537464-5388708701-66718428"
+          },
+          {
+            "machine_tag": 0,
+            "author": "58558794@N07",
+            "text": "llanoverlibrary",
+            "raw": "Llanover Library",
+            "authorname": "Provenance Online Project",
+            "id": "58537464-5388708701-67079489"
+          },
+          {
+            "machine_tag": 0,
+            "author": "58558794@N07",
+            "text": "shelfmarks",
+            "raw": "Shelfmarks",
+            "authorname": "Provenance Online Project",
+            "id": "58537464-5388708701-15896507"
+          },
+          {
+            "machine_tag": 0,
+            "author": "58558794@N07",
+            "text": "stamps",
+            "raw": "Stamps",
+            "authorname": "Provenance Online Project",
+            "id": "58537464-5388708701-5158"
+          },
+          {
+            "machine_tag": 0,
+            "author": "58592597@N05",
+            "text": "llanoveraugustahall18021896",
+            "raw": "Llanover, Augusta Hall, 1802-1896",
+            "authorname": "noonie86",
+            "id": "58537464-5388708701-67079983"
+          },
+          {
+            "machine_tag": 0,
+            "author": "58592597@N05",
+            "text": "llanoverwales",
+            "raw": "Llanover (Wales)",
+            "authorname": "noonie86",
+            "id": "58537464-5388708701-67079463"
+          }
+        ]
+      },
+      "comments": "2",
+      "secret": "c2f20935dc",
+      "usage": {
+        "canblog": 0,
+        "canshare": 1,
+        "candownload": 1,
+        "canprint": 0
+      },
+      "description": "Penn Libraries call number: GrC P7468.1 1572",
+      "isfavorite": 0,
+      "views": "510",
+      "farm": 6,
+      "visibility": {
+        "isfriend": 0,
+        "isfamily": 0,
+        "ispublic": 1
+      },
+      "rotation": 0,
+      "dates": {
+        "taken": "2011-01-25 21:57:05",
+        "lastupdate": "1371069953",
+        "posted": "1296010625",
+        "takengranularity": "0"
+      },
+      "originalsecret": "2b87444a1a",
+      "license": "4",
+      "notes": {
+        "note": []
+      },
+      "server": "5096",
+      "safety_level": "0",
+      "urls": {
+        "url": [
+          {
+            "text": "https://www.flickr.com/photos/58558794@N07/5388708701/",
+            "type": "photopage"
+          }
+        ]
+      },
+      "editability": {
+        "canaddmeta": 0,
+        "cancomment": 0
+      }
+    },
+    "stat": "ok"
+  },
+  {
+    "photo": {
+      "people": {
+        "haspeople": 0
+      },
+      "dateuploaded": "1296010623",
+      "originalformat": "png",
+      "owner": {
+        "username": "Provenance Online Project",
+        "realname": "POP",
+        "path_alias": null,
+        "iconserver": "7337",
+        "nsid": "58558794@N07",
+        "location": "",
+        "iconfarm": 8
+      },
+      "publiceditability": {
+        "canaddmeta": 0,
+        "cancomment": 1
+      },
+      "id": "5388708631",
+      "title": "Bookplate of Lloyd Kenyon, Baron Kenyon (1732-1802)",
+      "media": "photo",
+      "tags": {
+        "tag": [
+          {
+            "machine_tag": 0,
+            "author": "58558794@N07",
+            "text": "grcp7468ei931525",
+            "raw": "GrC P7468 Ei93 1525",
+            "authorname": "Provenance Online Project",
+            "id": "58537464-5388708631-66189061"
+          },
+          {
+            "machine_tag": 0,
+            "author": "58558794@N07",
+            "text": "provenance",
+            "raw": "Provenance",
+            "authorname": "Provenance Online Project",
+            "id": "58537464-5388708631-1080226"
+          },
+          {
+            "machine_tag": 0,
+            "author": "58558794@N07",
+            "text": "greekcultureclasscollection",
+            "raw": "Greek Culture Class Collection",
+            "authorname": "Provenance Online Project",
+            "id": "58537464-5388708631-66055725"
+          },
+          {
+            "machine_tag": 0,
+            "author": "58558794@N07",
+            "text": "cultureclasscollection",
+            "raw": "Culture Class Collection",
+            "authorname": "Provenance Online Project",
+            "id": "58537464-5388708631-66134932"
+          },
+          {
+            "machine_tag": 0,
+            "author": "58558794@N07",
+            "text": "pennlibraries",
+            "raw": "Penn Libraries",
+            "authorname": "Provenance Online Project",
+            "id": "58537464-5388708631-37659184"
+          },
+          {
+            "machine_tag": 0,
+            "author": "58558794@N07",
+            "text": "bookplates",
+            "raw": "Bookplates",
+            "authorname": "Provenance Online Project",
+            "id": "58537464-5388708631-1859279"
+          },
+          {
+            "machine_tag": 0,
+            "author": "58558794@N07",
+            "text": "labels",
+            "raw": "Labels",
+            "authorname": "Provenance Online Project",
+            "id": "58537464-5388708631-18935"
+          },
+          {
+            "machine_tag": 0,
+            "author": "58558794@N07",
+            "text": "kenyonlloydkenyonbaron17321802",
+            "raw": "Kenyon, Lloyd Kenyon, Baron, 1732-1802",
+            "authorname": "Provenance Online Project",
+            "id": "58537464-5388708631-67308600"
+          },
+          {
+            "machine_tag": 0,
+            "author": "58558794@N07",
+            "text": "identified",
+            "raw": "Identified",
+            "authorname": "Provenance Online Project",
+            "id": "58537464-5388708631-871924"
+          }
+        ]
+      },
+      "comments": "1",
+      "secret": "167b9b1aa1",
+      "usage": {
+        "canblog": 0,
+        "canshare": 1,
+        "candownload": 1,
+        "canprint": 0
+      },
+      "description": "<b>Established heading:</b> <a href=\"http://viaf.org/viaf/17584069\" rel=\"nofollow\">Kenyon, Lloyd Kenyon, Baron, 1732-1802</a>\n\nPenn Libraries call number: GrC P7468 Ei93 1525",
+      "isfavorite": 0,
+      "views": "306",
+      "farm": 6,
+      "visibility": {
+        "isfriend": 0,
+        "isfamily": 0,
+        "ispublic": 1
+      },
+      "rotation": 0,
+      "dates": {
+        "taken": "2011-01-25 21:57:03",
+        "lastupdate": "1343417540",
+        "posted": "1296010623",
+        "takengranularity": "0"
+      },
+      "originalsecret": "7350b1dd88",
+      "license": "4",
+      "notes": {
+        "note": []
+      },
+      "server": "5252",
+      "safety_level": "0",
+      "urls": {
+        "url": [
+          {
+            "text": "https://www.flickr.com/photos/58558794@N07/5388708631/",
+            "type": "photopage"
+          }
+        ]
+      },
+      "editability": {
+        "canaddmeta": 0,
+        "cancomment": 0
+      }
+    },
+    "stat": "ok"
+  },
+  {
+    "photo": {
+      "people": {
+        "haspeople": 0
+      },
+      "dateuploaded": "1296010622",
+      "originalformat": "png",
+      "owner": {
+        "username": "Provenance Online Project",
+        "realname": "POP",
+        "path_alias": null,
+        "iconserver": "7337",
+        "nsid": "58558794@N07",
+        "location": "",
+        "iconfarm": 8
+      },
+      "publiceditability": {
+        "canaddmeta": 0,
+        "cancomment": 1
+      },
+      "id": "5389315532",
+      "title": "Hieron[ymus] Mannuccius",
+      "media": "photo",
+      "tags": {
+        "tag": [
+          {
+            "machine_tag": 0,
+            "author": "58558794@N07",
+            "text": "grcp7468ei15565a1566",
+            "raw": "GrC P7468 Ei15 565a 1566",
+            "authorname": "Provenance Online Project",
+            "id": "58537464-5389315532-66189059"
+          },
+          {
+            "machine_tag": 0,
+            "author": "58558794@N07",
+            "text": "provenance",
+            "raw": "Provenance",
+            "authorname": "Provenance Online Project",
+            "id": "58537464-5389315532-1080226"
+          },
+          {
+            "machine_tag": 0,
+            "author": "58558794@N07",
+            "text": "greekcultureclasscollection",
+            "raw": "Greek Culture Class Collection",
+            "authorname": "Provenance Online Project",
+            "id": "58537464-5389315532-66055725"
+          },
+          {
+            "machine_tag": 0,
+            "author": "58558794@N07",
+            "text": "cultureclasscollection",
+            "raw": "Culture Class Collection",
+            "authorname": "Provenance Online Project",
+            "id": "58537464-5389315532-66134932"
+          },
+          {
+            "machine_tag": 0,
+            "author": "58558794@N07",
+            "text": "pennlibraries",
+            "raw": "Penn Libraries",
+            "authorname": "Provenance Online Project",
+            "id": "58537464-5389315532-37659184"
+          },
+          {
+            "machine_tag": 0,
+            "author": "58654589@N08",
+            "text": "unidentified",
+            "raw": "unidentified",
+            "authorname": "miglpenn",
+            "id": "58537464-5389315532-120348"
+          },
+          {
+            "machine_tag": 0,
+            "author": "58654589@N08",
+            "text": "illegible",
+            "raw": "illegible",
+            "authorname": "miglpenn",
+            "id": "58537464-5389315532-410187"
+          },
+          {
+            "machine_tag": 0,
+            "author": "58558794@N07",
+            "text": "stamps",
+            "raw": "Stamps",
+            "authorname": "Provenance Online Project",
+            "id": "58537464-5389315532-5158"
+          },
+          {
+            "machine_tag": 0,
+            "author": "58558794@N07",
+            "text": "mannucciushieronymus",
+            "raw": "Mannuccius, Hieronymus",
+            "authorname": "Provenance Online Project",
+            "id": "58537464-5389315532-73791433"
+          },
+          {
+            "machine_tag": 0,
+            "author": "58592597@N05",
+            "text": "mannuccihieronymus",
+            "raw": "Mannucci, Hieronymus",
+            "authorname": "noonie86",
+            "id": "58537464-5389315532-116722952"
+          }
+        ]
+      },
+      "comments": "2",
+      "secret": "140c1555e4",
+      "usage": {
+        "canblog": 0,
+        "canshare": 1,
+        "candownload": 1,
+        "canprint": 0
+      },
+      "description": "Penn Libraries call number: GrC P7468 Ei15 565a 1566",
+      "isfavorite": 0,
+      "views": "99",
+      "farm": 6,
+      "visibility": {
+        "isfriend": 0,
+        "isfamily": 0,
+        "ispublic": 1
+      },
+      "rotation": 0,
+      "dates": {
+        "taken": "2011-01-25 21:57:02",
+        "lastupdate": "1370877704",
+        "posted": "1296010622",
+        "takengranularity": "0"
+      },
+      "originalsecret": "5b0c7980d3",
+      "license": "4",
+      "notes": {
+        "note": []
+      },
+      "server": "5014",
+      "safety_level": "0",
+      "urls": {
+        "url": [
+          {
+            "text": "https://www.flickr.com/photos/58558794@N07/5389315532/",
+            "type": "photopage"
+          }
+        ]
+      },
+      "editability": {
+        "canaddmeta": 0,
+        "cancomment": 0
+      }
+    },
+    "stat": "ok"
+  },
+  {
+    "photo": {
+      "people": {
+        "haspeople": 0
+      },
+      "dateuploaded": "1296010621",
+      "originalformat": "png",
+      "owner": {
+        "username": "Provenance Online Project",
+        "realname": "POP",
+        "path_alias": null,
+        "iconserver": "7337",
+        "nsid": "58558794@N07",
+        "location": "",
+        "iconfarm": 8
+      },
+      "publiceditability": {
+        "canaddmeta": 0,
+        "cancomment": 1
+      },
+      "id": "5389315496",
+      "title": "Virgil Peruzzi",
+      "media": "photo",
+      "tags": {
+        "tag": [
+          {
+            "machine_tag": 0,
+            "author": "58558794@N07",
+            "text": "grcp7468ei15565a1566",
+            "raw": "GrC P7468 Ei15 565a 1566",
+            "authorname": "Provenance Online Project",
+            "id": "58537464-5389315496-66189059"
+          },
+          {
+            "machine_tag": 0,
+            "author": "58558794@N07",
+            "text": "provenance",
+            "raw": "Provenance",
+            "authorname": "Provenance Online Project",
+            "id": "58537464-5389315496-1080226"
+          },
+          {
+            "machine_tag": 0,
+            "author": "58558794@N07",
+            "text": "greekcultureclasscollection",
+            "raw": "Greek Culture Class Collection",
+            "authorname": "Provenance Online Project",
+            "id": "58537464-5389315496-66055725"
+          },
+          {
+            "machine_tag": 0,
+            "author": "58558794@N07",
+            "text": "cultureclasscollection",
+            "raw": "Culture Class Collection",
+            "authorname": "Provenance Online Project",
+            "id": "58537464-5389315496-66134932"
+          },
+          {
+            "machine_tag": 0,
+            "author": "58558794@N07",
+            "text": "pennlibraries",
+            "raw": "Penn Libraries",
+            "authorname": "Provenance Online Project",
+            "id": "58537464-5389315496-37659184"
+          },
+          {
+            "machine_tag": 0,
+            "author": "58654589@N08",
+            "text": "1921",
+            "raw": "1921",
+            "authorname": "miglpenn",
+            "id": "58537464-5389315496-106493"
+          },
+          {
+            "machine_tag": 0,
+            "author": "58654589@N08",
+            "text": "1920s",
+            "raw": "1920s",
+            "authorname": "miglpenn",
+            "id": "58537464-5389315496-172"
+          },
+          {
+            "machine_tag": 0,
+            "author": "58558794@N07",
+            "text": "stamps",
+            "raw": "Stamps",
+            "authorname": "Provenance Online Project",
+            "id": "58537464-5389315496-5158"
+          },
+          {
+            "machine_tag": 0,
+            "author": "58558794@N07",
+            "text": "peruzzivirgil",
+            "raw": "Peruzzi, Virgil",
+            "authorname": "Provenance Online Project",
+            "id": "58537464-5389315496-67308704"
+          },
+          {
+            "machine_tag": 0,
+            "author": "58558794@N07",
+            "text": "ischiaitaly",
+            "raw": "Ischia (Italy)",
+            "authorname": "Provenance Online Project",
+            "id": "58537464-5389315496-11777869"
+          },
+          {
+            "machine_tag": 0,
+            "author": "58558794@N07",
+            "text": "unidentified",
+            "raw": "Unidentified",
+            "authorname": "Provenance Online Project",
+            "id": "58537464-5389315496-120348"
+          }
+        ]
+      },
+      "comments": "2",
+      "secret": "b60c54b563",
+      "usage": {
+        "canblog": 0,
+        "canshare": 1,
+        "candownload": 1,
+        "canprint": 0
+      },
+      "description": "Ex libris D. Virgili Peruzzi. Plebi ad Ischiatam. Senarum anno 1921\n\nPenn Libraries call number: GrC P7468 Ei15 565a 1566",
+      "isfavorite": 0,
+      "views": "234",
+      "farm": 6,
+      "visibility": {
+        "isfriend": 0,
+        "isfamily": 0,
+        "ispublic": 1
+      },
+      "rotation": 0,
+      "dates": {
+        "taken": "2011-01-25 21:57:01",
+        "lastupdate": "1370878370",
+        "posted": "1296010621",
+        "takengranularity": "0"
+      },
+      "originalsecret": "afa341d1fd",
+      "license": "4",
+      "notes": {
+        "note": []
+      },
+      "server": "5092",
+      "safety_level": "0",
+      "urls": {
+        "url": [
+          {
+            "text": "https://www.flickr.com/photos/58558794@N07/5389315496/",
+            "type": "photopage"
+          }
+        ]
+      },
+      "editability": {
+        "canaddmeta": 0,
+        "cancomment": 0
+      }
+    },
+    "stat": "ok"
+  },
+  {
+    "photo": {
+      "people": {
+        "haspeople": 0
+      },
+      "dateuploaded": "1404127095",
+      "originalformat": "jpg",
+      "owner": {
+        "username": "Provenance Online Project",
+        "realname": "POP",
+        "path_alias": null,
+        "iconserver": "7337",
+        "nsid": "58558794@N07",
+        "location": "",
+        "iconfarm": 8
+      },
+      "publiceditability": {
+        "canaddmeta": 0,
+        "cancomment": 1
+      },
+      "id": "14518776656",
+      "title": "Manicule",
+      "media": "photo",
+      "tags": {
+        "tag": [
+          {
+            "machine_tag": 0,
+            "author": "58558794@N07",
+            "text": "incd36",
+            "raw": "Inc D-36",
+            "authorname": "Provenance Online Project",
+            "id": "58537464-14518776656-223586453"
+          },
+          {
+            "machine_tag": 0,
+            "author": "58558794@N07",
+            "text": "incunablecollection",
+            "raw": "Incunable Collection",
+            "authorname": "Provenance Online Project",
+            "id": "58537464-14518776656-67411040"
+          },
+          {
+            "machine_tag": 0,
+            "author": "58558794@N07",
+            "text": "incunables",
+            "raw": "Incunables",
+            "authorname": "Provenance Online Project",
+            "id": "58537464-14518776656-843631"
+          },
+          {
+            "machine_tag": 0,
+            "author": "58558794@N07",
+            "text": "incunabula",
+            "raw": "Incunabula",
+            "authorname": "Provenance Online Project",
+            "id": "58537464-14518776656-181515"
+          },
+          {
+            "machine_tag": 0,
+            "author": "58558794@N07",
+            "text": "manicules",
+            "raw": "Manicules",
+            "authorname": "Provenance Online Project",
+            "id": "58537464-14518776656-11822091"
+          },
+          {
+            "machine_tag": 0,
+            "author": "58558794@N07",
+            "text": "marginalia",
+            "raw": "Marginalia",
+            "authorname": "Provenance Online Project",
+            "id": "58537464-14518776656-33848"
+          },
+          {
+            "machine_tag": 0,
+            "author": "58558794@N07",
+            "text": "pennlibraries",
+            "raw": "Penn Libraries",
+            "authorname": "Provenance Online Project",
+            "id": "58537464-14518776656-37659184"
+          },
+          {
+            "machine_tag": 0,
+            "author": "58558794@N07",
+            "text": "identified",
+            "raw": "Identified",
+            "authorname": "Provenance Online Project",
+            "id": "58537464-14518776656-871924"
+          },
+          {
+            "machine_tag": 0,
+            "author": "58584977@N05",
+            "text": "dantealighieri12651321",
+            "raw": "Dante Alighieri, 1265-1321",
+            "authorname": "ebroadwe",
+            "id": "58537464-14518776656-42724873"
+          },
+          {
+            "machine_tag": 0,
+            "author": "58584977@N05",
+            "text": "convivio",
+            "raw": "Convivio",
+            "authorname": "ebroadwe",
+            "id": "58537464-14518776656-674524"
+          },
+          {
+            "machine_tag": 0,
+            "author": "58584977@N05",
+            "text": "florenceitaly",
+            "raw": "Florence (Italy)",
+            "authorname": "ebroadwe",
+            "id": "58537464-14518776656-107776"
+          },
+          {
+            "machine_tag": 0,
+            "author": "58584977@N05",
+            "text": "buonaccorsifrancescoactive14851497",
+            "raw": "Buonaccorsi, Francesco, active 1485-1497",
+            "authorname": "ebroadwe",
+            "id": "58537464-14518776656-225609944"
+          },
+          {
+            "machine_tag": 0,
+            "author": "58584977@N05",
+            "text": "1490",
+            "raw": "1490",
+            "authorname": "ebroadwe",
+            "id": "58537464-14518776656-1492854"
+          },
+          {
+            "machine_tag": 0,
+            "author": "58584977@N05",
+            "text": "1490s",
+            "raw": "1490s",
+            "authorname": "ebroadwe",
+            "id": "58537464-14518776656-1462209"
+          },
+          {
+            "machine_tag": 0,
+            "author": "58584977@N05",
+            "text": "pulciluigi14321484",
+            "raw": "Pulci, Luigi, 1432-1484",
+            "authorname": "ebroadwe",
+            "id": "58537464-14518776656-109197765"
+          },
+          {
+            "machine_tag": 0,
+            "author": "58584977@N05",
+            "text": "istcid00036000",
+            "raw": "ISTC id00036000",
+            "authorname": "ebroadwe",
+            "id": "58537464-14518776656-225100136"
+          }
+        ]
+      },
+      "comments": "1",
+      "secret": "ec3ffbf303",
+      "usage": {
+        "canblog": 0,
+        "canshare": 1,
+        "candownload": 1,
+        "canprint": 0
+      },
+      "description": "Penn Libraries call number: Inc D-36\n<a href=\"http://www.flickr.com/photos/58558794@N07/tags/incd36/\">All images from this book</a>\nPenn Libraries <a href=\"http://franklin.library.upenn.edu/record.html?id=FRANKLIN_3189756\" rel=\"nofollow\">catalog record</a>",
+      "isfavorite": 0,
+      "views": "291",
+      "farm": 4,
+      "visibility": {
+        "isfriend": 0,
+        "isfamily": 0,
+        "ispublic": 1
+      },
+      "rotation": 0,
+      "dates": {
+        "taken": "2013-12-18 07:56:37",
+        "lastupdate": "1405971747",
+        "posted": "1404127095",
+        "takengranularity": "0"
+      },
+      "originalsecret": "ece9240f83",
+      "license": "4",
+      "notes": {
+        "note": []
+      },
+      "server": "3866",
+      "safety_level": "0",
+      "urls": {
+        "url": [
+          {
+            "text": "https://www.flickr.com/photos/58558794@N07/14518776656/",
+            "type": "photopage"
+          }
+        ]
+      },
+      "editability": {
+        "canaddmeta": 0,
+        "cancomment": 0
+      }
+    },
+    "stat": "ok"
+  },
+  {
+    "photo": {
+      "people": {
+        "haspeople": 0
+      },
+      "dateuploaded": "1296010633",
+      "originalformat": "png",
+      "owner": {
+        "username": "Provenance Online Project",
+        "realname": "POP",
+        "path_alias": null,
+        "iconserver": "7337",
+        "nsid": "58558794@N07",
+        "location": "",
+        "iconfarm": 8
+      },
+      "publiceditability": {
+        "canaddmeta": 0,
+        "cancomment": 1
+      },
+      "id": "5388709007",
+      "title": "GrC P9428 Ei3 1547",
+      "media": "photo",
+      "tags": {
+        "tag": [
+          {
+            "machine_tag": 0,
+            "author": "58558794@N07",
+            "text": "grcp9428ei31547",
+            "raw": "GrC P9428 Ei3 1547",
+            "authorname": "Provenance Online Project",
+            "id": "58537464-5388709007-66189073"
+          },
+          {
+            "machine_tag": 0,
+            "author": "58558794@N07",
+            "text": "provenance",
+            "raw": "Provenance",
+            "authorname": "Provenance Online Project",
+            "id": "58537464-5388709007-1080226"
+          },
+          {
+            "machine_tag": 0,
+            "author": "58558794@N07",
+            "text": "greekcultureclasscollection",
+            "raw": "Greek Culture Class Collection",
+            "authorname": "Provenance Online Project",
+            "id": "58537464-5388709007-66055725"
+          },
+          {
+            "machine_tag": 0,
+            "author": "58558794@N07",
+            "text": "cultureclasscollection",
+            "raw": "Culture Class Collection",
+            "authorname": "Provenance Online Project",
+            "id": "58537464-5388709007-66134932"
+          },
+          {
+            "machine_tag": 0,
+            "author": "58558794@N07",
+            "text": "pennlibraries",
+            "raw": "Penn Libraries",
+            "authorname": "Provenance Online Project",
+            "id": "58537464-5388709007-37659184"
+          },
+          {
+            "machine_tag": 0,
+            "author": "58558794@N07",
+            "text": "inscriptions",
+            "raw": "Inscriptions",
+            "authorname": "Provenance Online Project",
+            "id": "58537464-5388709007-48632"
+          },
+          {
+            "machine_tag": 0,
+            "author": "58558794@N07",
+            "text": "illegible",
+            "raw": "Illegible",
+            "authorname": "Provenance Online Project",
+            "id": "58537464-5388709007-410187"
+          },
+          {
+            "machine_tag": 0,
+            "author": "58558794@N07",
+            "text": "unidentified",
+            "raw": "Unidentified",
+            "authorname": "Provenance Online Project",
+            "id": "58537464-5388709007-120348"
+          }
+        ]
+      },
+      "comments": "2",
+      "secret": "461f684cb7",
+      "usage": {
+        "canblog": 0,
+        "canshare": 1,
+        "candownload": 1,
+        "canprint": 0
+      },
+      "description": "Penn Libraries call number: GrC P9428 Ei3 1547",
+      "isfavorite": 0,
+      "views": "80",
+      "farm": 6,
+      "visibility": {
+        "isfriend": 0,
+        "isfamily": 0,
+        "ispublic": 1
+      },
+      "rotation": 0,
+      "dates": {
+        "taken": "2011-01-25 21:57:13",
+        "lastupdate": "1371476902",
+        "posted": "1296010633",
+        "takengranularity": "0"
+      },
+      "originalsecret": "a3a4e8f265",
+      "license": "4",
+      "notes": {
+        "note": []
+      },
+      "server": "5252",
+      "safety_level": "0",
+      "urls": {
+        "url": [
+          {
+            "text": "https://www.flickr.com/photos/58558794@N07/5388709007/",
+            "type": "photopage"
+          }
+        ]
+      },
+      "editability": {
+        "canaddmeta": 0,
+        "cancomment": 0
+      }
+    },
+    "stat": "ok"
+  }
+]
